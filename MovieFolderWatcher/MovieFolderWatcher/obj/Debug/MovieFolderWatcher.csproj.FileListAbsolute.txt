@@ -1,0 +1,6 @@
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\bin\Debug\MovieFolderWatcher.exe.config
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\bin\Debug\MovieFolderWatcher.exe
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\bin\Debug\MovieFolderWatcher.pdb
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\obj\Debug\MovieFolderWatcher.csprojResolveAssemblyReference.cache
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\obj\Debug\MovieFolderWatcher.exe
+c:\users\vivekbahuguna\documents\visual studio 2013\Projects\MovieFolderWatcher\MovieFolderWatcher\obj\Debug\MovieFolderWatcher.pdb
